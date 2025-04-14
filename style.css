@@ -27,6 +27,10 @@ h2 {
     width: 100%;
 }
 
+ul {
+    line-height: 1.6em;
+}
+
 a {
     color: black;
 }
